@@ -2,4 +2,7 @@ RewriteEngine On
 
 RewriteRule ^Interior Studio | The Koncept House([^\.]+)$ $index.html [NC,L]
 
+RewriteEngine On
 RewriteRule ^The Koncept House/projects([^\.]+)$ $projects.html [NC,L]
+
+
