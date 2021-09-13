@@ -694,7 +694,7 @@ p {
   .about-image::before {
     position: absolute;
     content: '';
-    background-image: url(../images/about/dots.jpg);
+   /* background-image: url(../images/about/dots.jpg);*/
     background-position: center center;
     background-size: 100%;
     width: 375px;
